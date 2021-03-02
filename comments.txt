@@ -1,0 +1,2 @@
+Question 2
+If a player is level 10, they should be considered a beginner, but your code would place them as a low level. Be sure to read carefully to see if the limits include the bounds or do not include them.
